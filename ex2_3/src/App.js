@@ -8,9 +8,6 @@ import EngineeringTopics from "./EngineeringTopics";
 function App() {
   return (
     <div>
-      <Home />
-      <About />
-      <Contact />
       <EngineeringTopics />
     </div>
   );
